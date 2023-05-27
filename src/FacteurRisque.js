@@ -159,7 +159,7 @@ const FacteurRisque = () => {
                 Une souffrance éthique est ressentie par une personne à qui on
                 demande d’agir en opposition avec ses valeurs professionnelles,
                 sociales ou personnelles. Le conflit de valeurs peut venir de ce
-                que le but du travail ou ses effets secondaires heurtent les
+                que le but du travail où ses effets secondaires heurtent les
                 convictions du travailleur, ou bien du fait qu’il doit
                 travailler d’une façon non conforme à sa conscience
                 professionnelle.
